@@ -19,18 +19,7 @@ Currently, I’m expanding my skills in data analysis and business intelligence 
 
 ## 📊 Featured Project
 
-### Procurement Dashboard – Power BI
-
-A Power BI dashboard developed to track supplier performance, cost trends, and procurement KPIs. The dashboard helps stakeholders monitor delivery reliability, contract savings, and approval times in real time.
-
-**Key Features:**
-
-- Interactive visuals and slicers for category-based insights  
-- Integrated SQL and Excel data sources  
-- Dynamic filters for regional and supplier-level analysis  
-- Clear KPI cards and trend analysis visuals
-
-[🔗 View the Project](#) *(link to the Power BI project if public or available)*
+### PowerBI - HR Churn report
 
 ---
 
